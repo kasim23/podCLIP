@@ -37,7 +37,7 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 # data
-/data
+/app/data/
 
 # Unit test / coverage reports
 htmlcov/
